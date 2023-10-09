@@ -1,4 +1,4 @@
 *.o
-simple_uart.so
+libSimpleUART.so
 simple_uart_term
 simple_uart_test
